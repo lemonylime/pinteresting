@@ -1,5 +1,5 @@
 # Pinteresting Sample
 
-This is the pinteresting sample app
+This is the pinteresting sample application
 
 by [Lemonylime]
